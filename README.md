@@ -90,3 +90,9 @@ With the starter code I was given I've added the functionality to roll two dice 
 My goal a year from now is to gain as much experience as I can to be in a position to where I can mentor someone else especially coming from a different field as it is not easy. I would like to learn as much as I can in building web apps from inside out, perhaps taking other nanodegrees to learn more about front-end and back-end to be a well rounded web developer. If the opportunity present itself I'll also learn other languages such as Node.js, c#, c++, etc. 
 
 Coding has always been a dream for me, and I would like to have my own tech company some day.
+
+# References
+
+http://stackoverflow.com/questions/33069476/simulating-rolling-2-dice-in-python
+https://www.webpagefx.com/blog/web-design/web-design-impacts-content-marketing/
+https://www.business2community.com/crisis-management/common-web-application-attacks-prevent-0949592
